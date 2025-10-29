@@ -25,3 +25,7 @@ func main() {
 	fmt.Println(result)
 }
 ```
+
+- [ ] Practice Markdown
+- [ ] Practice Copilot Coding
+- [ ] Commit
